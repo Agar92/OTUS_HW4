@@ -9,6 +9,7 @@
 
 int var;/*!< Detailed description after the member */
 
+
 using std::cout, std::endl;/*!< using declarations */
 
 
