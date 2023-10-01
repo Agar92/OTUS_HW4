@@ -5,6 +5,11 @@ branding:
   icon: "upload-cloud"
   color: "purple"
 
+on:
+  push:
+    branches:
+      - master
+
 inputs:
   github_token:
     description: 'A GitHub token for pushing to the repo. Example: https://git.io/passing-token'
