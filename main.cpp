@@ -1,6 +1,6 @@
 /*!
-  @file  main.cpp
-  @brief main program file
+  \file  main.cpp
+  \brief main program file
 */
 #include <iostream>
 #include <vector>
