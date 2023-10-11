@@ -1,0 +1,5 @@
+<map id="is_container&lt; T, std::void_t&lt; typename T::value_type, typename T::size_type, typename T::allocator_type, typename T::iterator, typename T::const_iterator, decltype(std::declval&lt; T &gt;().size()), decltype(std::declval&lt; T &gt;().begin()), decltype(std::declval&lt; T &gt;().end()), decltype(std::declval&lt; T &gt;().cbegin()), decltype(std::declval&lt; T &gt;().cend()) &gt; &gt;" name="is_container&lt; T, std::void_t&lt; typename T::value_type, typename T::size_type, typename T::allocator_type, typename T::iterator, typename T::const_iterator, decltype(std::declval&lt; T &gt;().size()), decltype(std::declval&lt; T &gt;().begin()), decltype(std::declval&lt; T &gt;().end()), decltype(std::declval&lt; T &gt;().cbegin()), decltype(std::declval&lt; T &gt;().cend()) &gt; &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,79,235,270"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="71,5,169,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,47,123,79,117,79,117,47"/>
+</map>
