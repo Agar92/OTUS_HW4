@@ -9,6 +9,7 @@
 #include <string>
 #include <tuple>
 #include <fstream>
+#include <cassert>
 
 using namespace std;
 
@@ -189,7 +190,7 @@ constexpr bool all_same(const std::tuple<>&){return true;}
 template<size_t I=0, typename...Types>
 void print_ip(const std::tuple<Types...> & tup){
   //cout<<"SIZE="<<(sizeof...(Types))<<endl;
-  static_assert(all_same(tup));
+  assert(all_same(tup));
   cout<<std::get<I>(tup);
   if constexpr(I+1 != sizeof...(Types) )
                 cout<<".";
